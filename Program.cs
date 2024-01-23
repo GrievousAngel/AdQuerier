@@ -1,6 +1,6 @@
 ﻿using System;
 using System.DirectoryServices.AccountManagement;
-using System.Linq;
+// using System.Linq;
 
 namespace ADQuerier
 {
